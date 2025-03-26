@@ -6,14 +6,14 @@ Aqui você encontrará materiais, anotações e projetos relacionados ao desenvo
 ## 📌 Sobre a disciplina
 A disciplina Artificial Intelligence e Chatbot foca na construção de chatbots inteligentes e interativos. Entre os principais tópicos abordados, estão:
 
-🧠 Fundamentos de Inteligência Artificial
-💬 Processamento de Linguagem Natural (NLP)
-🤖 Desenvolvimento de Chatbots com Python e JavaScript
-🔗 Integração com APIs e Serviços
-📡 Plataformas de Chatbot (Dialogflow, Rasa, BotPress)
-⚡ Machine Learning aplicado a Chatbots
-🔍 Testes e Métricas de Performance
-🚀 Projeto Final: Construindo um Chatbot Completo
+- 🧠 Fundamentos de Inteligência Artificial
+- 💬 Processamento de Linguagem Natural (NLP)
+- 🤖 Desenvolvimento de Chatbots com Python e JavaScript
+- 🔗 Integração com APIs e Serviços
+- 📡 Plataformas de Chatbot (Dialogflow, Rasa, BotPress)
+- ⚡ Machine Learning aplicado a Chatbots
+- 🔍 Testes e Métricas de Performance
+- 🚀 Projeto Final: Construindo um Chatbot Completo
 
 ## 📂 O que você encontrará aqui?
 📑 Anotações sobre os conceitos e práticas aprendidas.
