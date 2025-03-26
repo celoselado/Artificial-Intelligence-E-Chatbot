@@ -16,9 +16,9 @@ A disciplina Artificial Intelligence e Chatbot foca na construção de chatbots 
 - 🚀 Projeto Final: Construindo um Chatbot Completo
 
 ## 📂 O que você encontrará aqui?
-📑 Anotações sobre os conceitos e práticas aprendidas.
-💻 Projetos e implementações práticas.
-🔍 Exemplos e estudos de caso aplicados ao mercado.
+- 📑 Anotações sobre os conceitos e práticas aprendidas.
+- 💻 Projetos e implementações práticas.
+- 🔍 Exemplos e estudos de caso aplicados ao mercado.
 
 ## 💬 Contato
 Se quiser entrar em contato comigo ou compartilhar dicas, me manda uma mensagem no LinkedIn! 😊 LinkedIn 🐱‍🚀
